@@ -1,0 +1,6 @@
+C:\Users\Tumise\Documents\Visual Studio 2015\Projects\NumericalMeths\NumericalMeths\bin\Debug\NumericalMeths.exe.config
+C:\Users\Tumise\Documents\Visual Studio 2015\Projects\NumericalMeths\NumericalMeths\bin\Debug\NumericalMeths.exe
+C:\Users\Tumise\Documents\Visual Studio 2015\Projects\NumericalMeths\NumericalMeths\bin\Debug\NumericalMeths.pdb
+C:\Users\Tumise\Documents\Visual Studio 2015\Projects\NumericalMeths\NumericalMeths\obj\Debug\NumericalMeths.csprojResolveAssemblyReference.cache
+C:\Users\Tumise\Documents\Visual Studio 2015\Projects\NumericalMeths\NumericalMeths\obj\Debug\NumericalMeths.exe
+C:\Users\Tumise\Documents\Visual Studio 2015\Projects\NumericalMeths\NumericalMeths\obj\Debug\NumericalMeths.pdb

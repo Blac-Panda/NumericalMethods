@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Tunmise
+namespace NumericalMeths
 {
     class Program
     {
@@ -11,7 +11,8 @@ namespace Tunmise
         {
             //Matrix matrix = new Matrix();
             Interpolation interpolation = new Interpolation();
-            Console.ReadLine();
+            Matrix matrix = new Matrix();
+            matrix.start();
         }
     }
 }
