@@ -14,6 +14,6 @@ Quadratic and Cubic are solved Using Partial Pivoting
 
 *The Matrix class can be extracted and used for other purposes 
 
-******Not all options are functional yet, its an old project I sort of abandoned but I'mlooking forward to completing it later in the week :)
+******Not all options are functional yet, its an old project I sort of abandoned.
 
 
